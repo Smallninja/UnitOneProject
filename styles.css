@@ -14,7 +14,7 @@ body {
         to right bottom, 
         rgba(111, 143, 213, 0.8), 
         rgba(40, 66, 180, 0.8)), 
-        url("../img/nature.jpg");
+        url("img/nature.jpg");
     background-size: cover;
     background-position: top;
     position: relative;
@@ -74,7 +74,7 @@ main {
         to right bottom, 
         rgba(111, 143, 213, 0.8), 
         rgba(40, 66, 180, 0.8)), 
-        url("../img/nature.jpg");
+        url("img/nature.jpg");
     background-size: cover;
     background-position: top;
     clip-path: polygon(0 25vh, 100% 0, 100% 100%, 0 100%);
